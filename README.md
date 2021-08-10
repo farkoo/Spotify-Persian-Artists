@@ -20,4 +20,4 @@ Telegram id:
 ## License
 [MIT](https://github.com/farkoo/Spotify-Persian-Artists/blob/master/LICENSE)
 &#0169; 
-[Farzaneh Koohestani](https://github.com/farkoo
+[Farzaneh Koohestani](https://github.com/farkoo)
